@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "deny": [
+      "Write(./protected.txt)",
+      "Edit(./protected.txt)"
+    ]
+  }
+}
